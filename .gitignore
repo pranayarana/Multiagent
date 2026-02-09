@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Multiagent/bin/Debug/net9.0
+/Multiagent/obj
+/.vs/Multiagent.slnx
